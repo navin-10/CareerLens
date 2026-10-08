@@ -1,0 +1,154 @@
+{
+  "Java": [
+    "java",
+    "java programming",
+    "core java",
+    "java se"
+  ],
+
+  "Spring Boot": [
+    "spring boot",
+    "springboot",
+    "spring",
+    "spring framework"
+  ],
+
+  "REST API": [
+    "rest api",
+    "restful api",
+    "rest",
+    "rest services",
+    "restful services"
+  ],
+
+  "SQL": [
+    "sql",
+    "mysql",
+    "postgresql",
+    "postgres",
+    "database sql"
+  ],
+
+  "React": [
+    "react",
+    "react.js",
+    "reactjs",
+    "react js"
+  ],
+
+  "JavaScript": [
+    "javascript",
+    "java script",
+    "js",
+    "ecmascript"
+  ],
+
+  "TypeScript": [
+    "typescript",
+    "type script",
+    "ts"
+  ],
+
+  "HTML": [
+    "html",
+    "html5",
+    "hypertext markup language"
+  ],
+
+  "CSS": [
+    "css",
+    "css3",
+    "cascading style sheets"
+  ],
+
+  "Git": [
+    "git",
+    "git version control",
+    "version control"
+  ],
+
+  "GitHub": [
+    "github",
+    "github repository",
+    "github actions"
+  ],
+
+  "Maven": [
+    "maven",
+    "apache maven",
+    "mvn"
+  ],
+
+  "JUnit": [
+    "junit",
+    "junit 5",
+    "unit testing with junit"
+  ],
+
+  "Docker": [
+    "docker",
+    "docker container",
+    "docker containers",
+    "containerization"
+  ],
+
+  "CI/CD": [
+    "ci/cd",
+    "cicd",
+    "continuous integration",
+    "continuous deployment",
+    "continuous delivery"
+  ],
+
+  "Python": [
+    "python",
+    "python3",
+    "python programming"
+  ],
+
+  "FastAPI": [
+    "fastapi",
+    "fast api"
+  ],
+
+  "PyTest": [
+    "pytest",
+    "py test",
+    "python testing"
+  ],
+
+  "Node.js": [
+    "node",
+    "node.js",
+    "nodejs"
+  ],
+
+  "Express.js": [
+    "express",
+    "express.js",
+    "expressjs"
+  ],
+
+  "MongoDB": [
+    "mongodb",
+    "mongo db",
+    "mongo"
+  ],
+
+  "AWS": [
+    "aws",
+    "amazon web services",
+    "amazon aws"
+  ],
+
+  "Azure": [
+    "azure",
+    "microsoft azure"
+  ],
+
+  "HTML/CSS": [
+    "html css",
+    "html/css",
+    "html and css"
+  ]
+}

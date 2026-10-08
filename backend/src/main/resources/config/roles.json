@@ -1,0 +1,56 @@
+{
+  "java-backend": {
+    "name": "Java Backend Developer",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "REST API",
+      "SQL",
+      "Git",
+      "Maven",
+      "JUnit",
+      "Docker"
+    ]
+  },
+  "java-fullstack": {
+    "name": "Java Full Stack Developer",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "REST API",
+      "SQL",
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git",
+      "Maven",
+      "JUnit",
+      "Docker"
+    ]
+  },
+  "frontend": {
+    "name": "Frontend Developer",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "TypeScript",
+      "Git",
+      "REST API"
+    ]
+  },
+  "python": {
+    "name": "Python Developer",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "REST API",
+      "SQL",
+      "Git",
+      "Docker",
+      "PyTest"
+    ]
+  }
+}
